@@ -1,2 +1,2 @@
-# firstthing
+# First Thing
 First Thing
